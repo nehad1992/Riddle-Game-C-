@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/C-sharp-practice/obj/Debug/netcoreapp2.2/Project.csprojAssemblyReference.cache
+/Users/Guest/Desktop/C-sharp-practice/obj/Debug/netcoreapp2.2/Project.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/C-sharp-practice/obj/Debug/netcoreapp2.2/Project.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/C-sharp-practice/obj/Debug/netcoreapp2.2/Project.AssemblyInfo.cs
+/Users/Guest/Desktop/C-sharp-practice/bin/Debug/netcoreapp2.2/Project.deps.json
+/Users/Guest/Desktop/C-sharp-practice/bin/Debug/netcoreapp2.2/Project.runtimeconfig.json
+/Users/Guest/Desktop/C-sharp-practice/bin/Debug/netcoreapp2.2/Project.runtimeconfig.dev.json
+/Users/Guest/Desktop/C-sharp-practice/bin/Debug/netcoreapp2.2/Project.dll
+/Users/Guest/Desktop/C-sharp-practice/bin/Debug/netcoreapp2.2/Project.pdb
+/Users/Guest/Desktop/C-sharp-practice/obj/Debug/netcoreapp2.2/Project.dll
+/Users/Guest/Desktop/C-sharp-practice/obj/Debug/netcoreapp2.2/Project.pdb
